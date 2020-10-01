@@ -1,0 +1,105 @@
+@charset "utf-8";
+
+body{
+	font-family: sans-serif;
+	margin-Left: 300px;
+   
+}
+h1 {
+	color: #008000;
+	margin-bottom: 20px;
+	 
+}
+
+h2 {
+	color: #95004a;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+/*botões*/
+
+.Botao1 {
+	text-decoration: none;
+	background-color: #808000;
+	padding: 5px 10px 5px 10px;
+	color: #ffffff;
+	border-radius: 5px;
+	cursor: pointer; /* cursosr formato de mão*/
+	border: 0; /*remover a sombra do button*/
+}
+#botao2 {
+	text-decoration: none;
+	background-color: #fb6104;
+	padding: 5px 10px 5px 10px;
+	color: #ffffff;
+	border-radius: 5px;
+	cursor: pointer; /* cursosr formato de mão*/
+	margin-left: 10px;
+}
+.Caixa1 {
+	width: 320px;
+	margin-bottom: 10px;
+	padding: 10px;
+	border-radius: 5px;
+	border: 1px solid #c9c132;
+}
+.Caixa2 {
+	margin-bottom: 5px;
+	text-decoration: none;
+	background-color: #ff8000;
+	padding: 5px 10px 5px 10px;
+	color: #ffffff;
+	border-radius: 10px;
+	cursor: pointer; /* cursosr formato de mão*/
+	margin-left: 10px;
+}
+#Caixa2 {
+	text-decoration: none;
+	background-color: #ff0000;
+	padding: 5px 10px 5px 10px;
+	color: #ffffff;
+	border-radius: 10px;
+	cursor: pointer; /* cursosr formato de mão*/
+	margin-left: 10px;
+}
+
+#estilo {
+	margin-top: 30px;
+	border-collapse: collapse;
+}
+
+#estilo th {
+	border-radius: 3px;
+	border: 1px solid #808000;
+	background-color: #ff8000;
+	text-align: left;
+	color: #ffffff;
+	padding: 8px;
+}
+
+#estilo td {
+	border: 1px solid #808000;
+	padding: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
